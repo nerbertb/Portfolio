@@ -21,7 +21,7 @@ const cards = [
     id: 3,
     imgURL: projectThree,
     name: 'Simple Crypto Price Tracker',
-    description: 'Drum kit app where the user can press the image or press the assigned letter on image to their keyboard and the drum sound will be played.'    
+    description: 'A simple Crypto Price Tracker made using Javascript fetching the price from Coingecko API.'    
   },
   {
     id: 4,
