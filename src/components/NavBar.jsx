@@ -12,7 +12,7 @@ function NavBar() {
     <section className="">
       <nav className="text-white flex justify-between p-5 items-center mx-10">
         <h1 className="text-2xl font-bold">
-          <a href="/">NB/.</a>
+          <Link to="/">NB/.</Link>
         </h1>
         
         <div className="flex gap-3">
