@@ -2,6 +2,7 @@ import projectOne from '@/assets/projects/dice-challenge-project.png';
 import projectTwo from '@/assets/projects/drum-kit-project.png';
 import projectThree from '@/assets/projects/crypto-price-alert-project.png';
 import projectFour from '@/assets/projects/dota-hero-finder-app-project.png';
+import projectFive from '@/assets/projects/geo-memory-map.png';
 
 const cards = [
   {
@@ -27,6 +28,12 @@ const cards = [
     imgURL: projectFour,
     name: 'Dota Hero Finder App',
     description: 'Dota hero finder is an app where you can search for your favorite hero and check their attributes.'
+  },
+  {
+    id: 5,
+    imgURL: projectFive,
+    name: 'Geo Memory Map - Full Stack',
+    description: 'Geo Memory Map is a full stack app where you can pin a location anywhere you are, then upload a photo and put description of the memory you have on that place.'
   },
 ];
 

@@ -13,9 +13,6 @@ function Projects() {
       <div className='grid  grid-flow-row justify-center content-center items-center'>
       {cards.map(createCards)}
       </div>
-      {/* <div className="grid grid-flow-row gap-2 auto-cols-[80%] auto-rows-[100%] font-bold place-content-center text-black">
-        
-      </div> */}
       
     </section>
     </div>
